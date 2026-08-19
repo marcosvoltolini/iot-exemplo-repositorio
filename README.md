@@ -1,19 +1,19 @@
-# iot-exemplo-repositorio
+# Aula 5 
 
-Discente: Ícaro Caldeira Botelho
+Discente: Marcos Paulo Voltolini Filho
 
 Docente: Amanda Paul Dull
 
-Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
 
 [![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/gzcCF6GhFek-acendedor-de-led-3000?sharecode=oJlNj4IwWi4yJ-hbwXRkpEibq6Wei9GqDSi0qM2b9bM)
 
 ## Enunciado: Vamos ligar o LED!
 
-O projeto vai utilizar um botão como entrada para controlar um LED como saída. Ao pressionar o botão, o Arduino altera o estado do LED — cada clique liga ou desliga, funcionando como um interruptor eletrônico.
-
-- O Arduino lê o estado do botão pelo **pino 7**
-- Controla o LED pelo **pino 10**
+Desafio Extra!
+Colocar mais um led e desenvolver uma
+lógica onde aperta 1 vez o botão ligue o LED
+1, apertar uma segunda vez ligue o LED 2,
+apertar uma terceira vez desligue
 
 ## Materiais necessários
 
